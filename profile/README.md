@@ -1,4 +1,6 @@
 <div align="center">
+ <img src="https://raw.githubusercontent.com/atlas-krypto-art/.github/main/profile/atlas_logo.svg.png" alt="Atlas Krypto & Kunst Logo" width="140" />
+  
   <h1>Atlas Krypto & Kunst UG</h1>
   <p><strong>Cybernetics • Web3 Architecture • IT Security Engineering</strong></p>
   <p>
